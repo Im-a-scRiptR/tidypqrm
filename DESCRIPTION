@@ -1,0 +1,54 @@
+Package: tidypqrm
+Type: Package
+Title: Tidy Risk Management
+Version: 0.1.0
+Authors@R: 
+    person(
+      given = "Scott", 
+      family = "Newman", 
+      role = c("cre","aut","cph"), 
+      email = "thekamehousegymhb@gmail.com"
+      )
+Maintainer: Im-a-scRiptR <thekamehousegymhb@gmail.com>
+Description: This package is a collection of wrapper functions that seek to.
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    timetk,
+    dplyr,
+    purrr,
+    tibble,
+    stringr,
+    lubridate,
+    TTR,
+    quantmod,
+    pbmcapply,
+    doParallel,
+    ggplot2,
+    rvest,
+    tidyr,
+    pbapply,
+    gghighlight,
+    parallelly,
+    rsample,
+    workflowsets,
+    recipes,
+    parsnip,
+    tune,
+    yardstick,
+    glmnet,
+    MASS,
+    stats,
+    utils,
+    magrittr,
+    recipeselectors,
+    RQuantLib,
+    plyr
+Remotes:
+    stevenpawley/recipeselectors@HEAD
+Date:
+    2022-12-29
+Depends:
+    R (>= 4.2.0)
+RoxygenNote: 7.2.3
+License: MIT + file LICENSE
