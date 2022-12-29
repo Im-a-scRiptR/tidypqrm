@@ -52,3 +52,5 @@ Depends:
     R (>= 4.2.0)
 RoxygenNote: 7.2.3
 License: MIT + file LICENSE
+URL: https://github.com/Im-a-scRiptR/tidypqrm
+BugReports: https://github.com/Im-a-scRiptR/tidypqrm/issues
